@@ -39,7 +39,7 @@ div {
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.sec {
-		width: 41%;
+		width: 35%;
 		float: left;
 	}
 	.sec3 {
